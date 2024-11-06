@@ -1,0 +1,1648 @@
+Title: Revenues
+Section Group: revenue
+Rows:
+  Name: revenues
+  Value: Revenues
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 25,801.9
+    Revenue Percent: 100.00%
+    Date: Dec 2020
+    Value: 24,725.2
+    Revenue Percent: 100.00%
+    Date: Dec 2021
+    Value: 26,123.2
+    Revenue Percent: 100.00%
+    Date: Dec 2022
+    Value: 91,719.9
+    Revenue Percent: 100.00%
+    Date: Dec 2023
+    Value: 54,317.8
+    Revenue Percent: 100.00%
+    Date: TTM
+    Value: 52,810.0
+    Revenue Percent: 100.00%
+
+  Name: other_revenues_summary_subtotal
+  Value: Other Revenues
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: -
+    Revenue Percent: 
+    Date: Dec 2020
+    Value: -
+    Revenue Percent: 
+    Date: Dec 2021
+    Value: -
+    Revenue Percent: 
+    Date: Dec 2022
+    Value: -
+    Revenue Percent: 
+    Date: Dec 2023
+    Value: -
+    Revenue Percent: 
+    Date: TTM
+    Value: -
+    Revenue Percent: 
+
+  Name: total_revenue
+  Value: Total Revenues
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 100%
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 100%
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 100%
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 100%
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 100%
+    Date: Dec 2019
+    Value: 25,801.9
+    Revenue Percent: 100%
+    Date: Dec 2020
+    Value: 24,725.2
+    Revenue Percent: 100%
+    Date: Dec 2021
+    Value: 26,123.2
+    Revenue Percent: 100%
+    Date: Dec 2022
+    Value: 91,719.9
+    Revenue Percent: 100%
+    Date: Dec 2023
+    Value: 54,317.8
+    Revenue Percent: 100%
+    Date: TTM
+    Value: 52,810.0
+    Revenue Percent: 100%
+
+  Name: cost_revenue
+  Value: Cost Of Revenues
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 22,174.1
+    Revenue Percent: 85.94%
+    Date: Dec 2020
+    Value: 18,760.9
+    Revenue Percent: 75.88%
+    Date: Dec 2021
+    Value: 20,090.3
+    Revenue Percent: 76.91%
+    Date: Dec 2022
+    Value: 70,075.0
+    Revenue Percent: 76.40%
+    Date: Dec 2023
+    Value: 41,568.2
+    Revenue Percent: 76.53%
+    Date: TTM
+    Value: 43,260.8
+    Revenue Percent: 81.92%
+
+  Name: gross_profit
+  Value: Gross Profit
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 3,627.8
+    Revenue Percent: 14.06%
+    Date: Dec 2020
+    Value: 5,964.2
+    Revenue Percent: 24.12%
+    Date: Dec 2021
+    Value: 6,032.9
+    Revenue Percent: 23.09%
+    Date: Dec 2022
+    Value: 21,644.9
+    Revenue Percent: 23.60%
+    Date: Dec 2023
+    Value: 12,749.6
+    Revenue Percent: 23.47%
+    Date: TTM
+    Value: 9,549.2
+    Revenue Percent: 18.08%
+
+
+Title: Operating Expenses & Income
+Section Group: revenue
+Rows:
+  Name: selling_general_admin_expenses_total
+  Value: Selling General & Admin Expenses
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 2,236.9
+    Revenue Percent: 8.67%
+    Date: Dec 2020
+    Value: 3,033.4
+    Revenue Percent: 12.27%
+    Date: Dec 2021
+    Value: 2,451.1
+    Revenue Percent: 9.38%
+    Date: Dec 2022
+    Value: 7,187.1
+    Revenue Percent: 7.84%
+    Date: Dec 2023
+    Value: 5,239.9
+    Revenue Percent: 9.65%
+    Date: TTM
+    Value: 5,133.0
+    Revenue Percent: 9.72%
+
+  Name: rd_expenses
+  Value: R&D Expenses
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 57.9
+    Revenue Percent: 0.22%
+    Date: Dec 2020
+    Value: 61.1
+    Revenue Percent: 0.25%
+    Date: Dec 2021
+    Value: 47.5
+    Revenue Percent: 0.18%
+    Date: Dec 2022
+    Value: 151.3
+    Revenue Percent: 0.16%
+    Date: Dec 2023
+    Value: 109.8
+    Revenue Percent: 0.20%
+    Date: TTM
+    Value: 114.1
+    Revenue Percent: 0.22%
+
+  Name: other_operating_expenses
+  Value: Other Operating Expenses
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (19.5)
+    Revenue Percent: (0.08%)
+    Date: Dec 2020
+    Value: 993.0
+    Revenue Percent: 4.02%
+    Date: Dec 2021
+    Value: 543.1
+    Revenue Percent: 2.08%
+    Date: Dec 2022
+    Value: 206.4
+    Revenue Percent: 0.23%
+    Date: Dec 2023
+    Value: 326.9
+    Revenue Percent: 0.60%
+    Date: TTM
+    Value: 29.1
+    Revenue Percent: 0.06%
+
+  Name: other_operating_exp_total
+  Value: Other Operating Expenses, Total
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 2,275.3
+    Revenue Percent: 8.82%
+    Date: Dec 2020
+    Value: 4,087.6
+    Revenue Percent: 16.53%
+    Date: Dec 2021
+    Value: 3,041.7
+    Revenue Percent: 11.64%
+    Date: Dec 2022
+    Value: 7,544.7
+    Revenue Percent: 8.23%
+    Date: Dec 2023
+    Value: 5,676.6
+    Revenue Percent: 10.45%
+    Date: TTM
+    Value: 5,276.2
+    Revenue Percent: 9.99%
+
+  Name: operating_income
+  Value: Operating Income
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 1,352.5
+    Revenue Percent: 5.24%
+    Date: Dec 2020
+    Value: 1,876.6
+    Revenue Percent: 7.59%
+    Date: Dec 2021
+    Value: 2,991.3
+    Revenue Percent: 11.45%
+    Date: Dec 2022
+    Value: 14,100.2
+    Revenue Percent: 15.37%
+    Date: Dec 2023
+    Value: 7,073.0
+    Revenue Percent: 13.02%
+    Date: TTM
+    Value: 4,272.9
+    Revenue Percent: 8.09%
+
+
+Title: Earnings from Continuing Operations
+Section Group: revenue
+Rows:
+  Name: interest_expense_total
+  Value: Interest Expense
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (948.6)
+    Revenue Percent: (3.68%)
+    Date: Dec 2020
+    Value: (652.7)
+    Revenue Percent: (2.64%)
+    Date: Dec 2021
+    Value: (498.9)
+    Revenue Percent: (1.91%)
+    Date: Dec 2022
+    Value: (1,321.5)
+    Revenue Percent: (1.44%)
+    Date: Dec 2023
+    Value: (885.7)
+    Revenue Percent: (1.63%)
+    Date: TTM
+    Value: (826.9)
+    Revenue Percent: (1.57%)
+
+  Name: interest_and_investment_income
+  Value: Interest And Investment Income
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 380.9
+    Revenue Percent: 1.48%
+    Date: Dec 2020
+    Value: 635.9
+    Revenue Percent: 2.57%
+    Date: Dec 2021
+    Value: 170.7
+    Revenue Percent: 0.65%
+    Date: Dec 2022
+    Value: 478.3
+    Revenue Percent: 0.52%
+    Date: Dec 2023
+    Value: 680.8
+    Revenue Percent: 1.25%
+    Date: TTM
+    Value: 904.8
+    Revenue Percent: 1.71%
+
+  Name: net_interest_exp_standard
+  Value: Net Interest Expenses
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (567.7)
+    Revenue Percent: (2.20%)
+    Date: Dec 2020
+    Value: (16.8)
+    Revenue Percent: (0.07%)
+    Date: Dec 2021
+    Value: (328.2)
+    Revenue Percent: (1.26%)
+    Date: Dec 2022
+    Value: (843.2)
+    Revenue Percent: (0.92%)
+    Date: Dec 2023
+    Value: (204.9)
+    Revenue Percent: (0.38%)
+    Date: TTM
+    Value: 78.0
+    Revenue Percent: 0.15%
+
+  Name: income_Loss_on_equity_invest
+  Value: Income (Loss) On Equity Invest.
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 487.9
+    Revenue Percent: 1.89%
+    Date: Dec 2020
+    Value: 399.1
+    Revenue Percent: 1.61%
+    Date: Dec 2021
+    Value: 443.1
+    Revenue Percent: 1.70%
+    Date: Dec 2022
+    Value: 863.6
+    Revenue Percent: 0.94%
+    Date: Dec 2023
+    Value: 1,039.9
+    Revenue Percent: 1.91%
+    Date: TTM
+    Value: 783.0
+    Revenue Percent: 1.48%
+
+  Name: currency_exchange_gains_loss
+  Value: Currency Exchange Gains (Loss)
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (276.2)
+    Revenue Percent: (1.07%)
+    Date: Dec 2020
+    Value: (106.5)
+    Revenue Percent: (0.43%)
+    Date: Dec 2021
+    Value: (763.8)
+    Revenue Percent: (2.92%)
+    Date: Dec 2022
+    Value: (2,895.8)
+    Revenue Percent: (3.16%)
+    Date: Dec 2023
+    Value: (1,293.5)
+    Revenue Percent: (2.38%)
+    Date: TTM
+    Value: (486.2)
+    Revenue Percent: (0.92%)
+
+  Name: other_non_operating_income
+  Value: Other Non Operating Income (Expenses)
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (65.1)
+    Revenue Percent: (0.25%)
+    Date: Dec 2020
+    Value: (213.7)
+    Revenue Percent: (0.86%)
+    Date: Dec 2021
+    Value: (118.1)
+    Revenue Percent: (0.45%)
+    Date: Dec 2022
+    Value: (1,398.9)
+    Revenue Percent: (1.53%)
+    Date: Dec 2023
+    Value: (1,441.3)
+    Revenue Percent: (2.65%)
+    Date: TTM
+    Value: (1,939.4)
+    Revenue Percent: (3.67%)
+
+  Name: ebt_incl_unusual_items
+  Value: EBT, Incl. Unusual Items
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 932.3
+    Revenue Percent: 3.61%
+    Date: Dec 2020
+    Value: 1,862.0
+    Revenue Percent: 7.53%
+    Date: Dec 2021
+    Value: 2,194.9
+    Revenue Percent: 8.40%
+    Date: Dec 2022
+    Value: 9,811.9
+    Revenue Percent: 10.70%
+    Date: Dec 2023
+    Value: 5,168.8
+    Revenue Percent: 9.52%
+    Date: TTM
+    Value: 2,694.3
+    Revenue Percent: 5.10%
+
+  Name: income_tax_expense
+  Value: Income Tax Expense
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (62.9)
+    Revenue Percent: (0.24%)
+    Date: Dec 2020
+    Value: 162.3
+    Revenue Percent: 0.66%
+    Date: Dec 2021
+    Value: 221.8
+    Revenue Percent: 0.85%
+    Date: Dec 2022
+    Value: 2,885.9
+    Revenue Percent: 3.15%
+    Date: Dec 2023
+    Value: 1,183.5
+    Revenue Percent: 2.18%
+    Date: TTM
+    Value: 691.9
+    Revenue Percent: 1.31%
+
+  Name: earnings_from_cont_ops
+  Value: Earnings From Continuing Operations
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 995.2
+    Revenue Percent: 3.86%
+    Date: Dec 2020
+    Value: 1,699.7
+    Revenue Percent: 6.87%
+    Date: Dec 2021
+    Value: 1,973.1
+    Revenue Percent: 7.55%
+    Date: Dec 2022
+    Value: 6,926.0
+    Revenue Percent: 7.55%
+    Date: Dec 2023
+    Value: 3,985.3
+    Revenue Percent: 7.34%
+    Date: TTM
+    Value: 2,002.3
+    Revenue Percent: 3.79%
+
+
+Title: Net Income
+Section Group: revenue
+Rows:
+  Name: net_income_to_company
+  Value: Net Income to Company
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 995.2
+    Revenue Percent: 3.86%
+    Date: Dec 2020
+    Value: 1,699.7
+    Revenue Percent: 6.87%
+    Date: Dec 2021
+    Value: 1,973.1
+    Revenue Percent: 7.55%
+    Date: Dec 2022
+    Value: 6,926.0
+    Revenue Percent: 7.55%
+    Date: Dec 2023
+    Value: 3,985.3
+    Revenue Percent: 7.34%
+    Date: TTM
+    Value: 2,002.3
+    Revenue Percent: 3.79%
+
+  Name: minority_interest
+  Value: Minority Interest
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: (257.2)
+    Revenue Percent: (1.00%)
+    Date: Dec 2020
+    Value: (452.1)
+    Revenue Percent: (1.83%)
+    Date: Dec 2021
+    Value: (828.3)
+    Revenue Percent: (3.17%)
+    Date: Dec 2022
+    Value: (3,042.1)
+    Revenue Percent: (3.32%)
+    Date: Dec 2023
+    Value: (1,540.3)
+    Revenue Percent: (2.84%)
+    Date: TTM
+    Value: (850.3)
+    Revenue Percent: (1.61%)
+
+  Name: net_income
+  Value: Net Income
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 738.0
+    Revenue Percent: 2.86%
+    Date: Dec 2020
+    Value: 1,247.5
+    Revenue Percent: 5.05%
+    Date: Dec 2021
+    Value: 1,144.8
+    Revenue Percent: 4.38%
+    Date: Dec 2022
+    Value: 3,883.9
+    Revenue Percent: 4.23%
+    Date: Dec 2023
+    Value: 2,445.0
+    Revenue Percent: 4.50%
+    Date: TTM
+    Value: 1,152.0
+    Revenue Percent: 2.18%
+
+  Name: ni_to_common_incl_extra_items
+  Value: NI to Common Incl Extra Items
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 738.0
+    Revenue Percent: 2.86%
+    Date: Dec 2020
+    Value: 1,247.5
+    Revenue Percent: 5.05%
+    Date: Dec 2021
+    Value: 1,144.8
+    Revenue Percent: 4.38%
+    Date: Dec 2022
+    Value: 3,883.9
+    Revenue Percent: 4.23%
+    Date: Dec 2023
+    Value: 2,445.0
+    Revenue Percent: 4.50%
+    Date: TTM
+    Value: 1,152.0
+    Revenue Percent: 2.18%
+
+  Name: ni_to_common_excl_extra_items
+  Value: NI to Common Excl. Extra Items
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: 
+    Date: Dec 2019
+    Value: 738.0
+    Revenue Percent: 2.86%
+    Date: Dec 2020
+    Value: 1,247.5
+    Revenue Percent: 5.05%
+    Date: Dec 2021
+    Value: 1,144.8
+    Revenue Percent: 4.38%
+    Date: Dec 2022
+    Value: 3,883.9
+    Revenue Percent: 4.23%
+    Date: Dec 2023
+    Value: 2,445.0
+    Revenue Percent: 4.50%
+    Date: TTM
+    Value: 1,152.0
+    Revenue Percent: 2.18%
+
+
+Title: Supplemental Items
+Section Group: 
+Rows:
+  Name: revenue_per_share
+  Value: Revenue Per Share
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $10.17
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $9.75
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $10.30
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $36.18
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $21.43
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $20.83
+    Revenue Percent: N/A
+
+  Name: eps
+  Value: Basic EPS
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.29
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.49
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.45
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $1.53
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.96
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.45
+    Revenue Percent: N/A
+
+  Name: basic_eps_excl_extra_items
+  Value: Basic EPS - Continuing Ops
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.29
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.49
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.45
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $1.53
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.96
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.45
+    Revenue Percent: N/A
+
+  Name: weighted_average_basic_shares_outstanding
+  Value: Basic Weighted Average Shares Outst.
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 2,535.9
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 2,535.9
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 2,535.6
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 2,535.0
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 2,535.0
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 2,535.0
+    Revenue Percent: N/A
+
+  Name: diluted_eps
+  Value: Diluted EPS
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.29
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.49
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.45
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $1.53
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.96
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.45
+    Revenue Percent: N/A
+
+  Name: diluted_eps_excl_extra_itmes
+  Value: Diluted EPS - Continuing Ops
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.29
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.49
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.45
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $1.53
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.96
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.45
+    Revenue Percent: N/A
+
+  Name: weighted_average_diluted_shares_outstanding
+  Value: Diluted Weighted Average Shares Outst.
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 2,535.9
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 2,535.9
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 2,535.6
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 2,535.0
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 2,535.0
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 2,535.0
+    Revenue Percent: N/A
+
+  Name: normalized_basic_eps
+  Value: Normalized Basic EPS
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.13
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.30
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.22
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $1.22
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.67
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.33
+    Revenue Percent: N/A
+
+  Name: normalized_diluted_eps
+  Value: Normalized Diluted EPS
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.13
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.30
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.22
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $1.22
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.67
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.33
+    Revenue Percent: N/A
+
+  Name: div_rate
+  Value: Dividend Per Share
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: $0.04
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: $0.08
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: $0.07
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: $0.09
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: $0.27
+    Revenue Percent: N/A
+    Date: TTM
+    Value: $0.24
+    Revenue Percent: N/A
+
+  Name: payout_ratio
+  Value: Payout Ratio
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 26.94%
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 7.23%
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 11.65%
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 7.78%
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 13.18%
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 56.39%
+    Revenue Percent: N/A
+
+  Name: ebitda
+  Value: EBITDA
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 1,753.0
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 2,325.3
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 3,294.9
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 15,184.6
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 7,922.6
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 5,198.8
+    Revenue Percent: N/A
+
+  Name: ebita
+  Value: EBITA
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 1,352.5
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 1,876.6
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 3,050.0
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 14,277.3
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 7,188.5
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 4,392.0
+    Revenue Percent: N/A
+
+  Name: ebit_op_in
+  Value: EBIT
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 1,352.5
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 1,876.6
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 2,991.3
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 14,100.2
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 7,073.0
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 4,272.9
+    Revenue Percent: N/A
+
+  Name: ebitdar
+  Value: EBITDAR
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 1,924.0
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 2,416.1
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 3,347.6
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 15,343.9
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 8,075.1
+    Revenue Percent: N/A
+    Date: TTM
+    Value: -
+    Revenue Percent: N/A
+
+  Name: effective_tax_rate
+  Value: Effective Tax Rate
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: NM
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 8.7%
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 10.1%
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 29.4%
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 22.9%
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 25.7%
+    Revenue Percent: N/A
+
+  Name: normalized_net_income
+  Value: Normalized Net Income
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 324.9
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 759.6
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 562.0
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 3,099.0
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 1,692.9
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 842.4
+    Revenue Percent: N/A
+
+  Name: interest_on_long_term_debt
+  Value: Interest on Long-Term Debt
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: -
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 21.4
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 12.0
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 24.7
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 18.1
+    Revenue Percent: N/A
+    Date: TTM
+    Value: -
+    Revenue Percent: N/A
+
+  Name: r_d_exp
+  Value: R&D Expense From Footnotes
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 61.7
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 61.8
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 47.5
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 151.3
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 109.8
+    Revenue Percent: N/A
+    Date: TTM
+    Value: 114.1
+    Revenue Percent: N/A
+
+  Name: foreign_sales
+  Value: Foreign Sales
+  Cells:
+    Date: Dec 2014
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2015
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2016
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2017
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2018
+    Value: False
+    Revenue Percent: N/A
+    Date: Dec 2019
+    Value: 7,650.1
+    Revenue Percent: N/A
+    Date: Dec 2020
+    Value: 6,374.8
+    Revenue Percent: N/A
+    Date: Dec 2021
+    Value: 6,881.6
+    Revenue Percent: N/A
+    Date: Dec 2022
+    Value: 21,904.3
+    Revenue Percent: N/A
+    Date: Dec 2023
+    Value: 11,631.2
+    Revenue Percent: N/A
+    Date: TTM
+    Value: -
+    Revenue Percent: N/A
+
+

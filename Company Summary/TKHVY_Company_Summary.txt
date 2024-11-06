@@ -1,0 +1,71 @@
+
+    Company Information:
+    --------------------
+    ID: TKHVY
+    Ticker ID: 32670
+    Company Name: Türk Hava Yollari Anonim Ortakligi
+    Location: Istanbul, Turkey
+    Address: Türk Hava Yollari AO Genel Yönetim Binas, Yesilköy Mahallesi, 34149
+    Phone: 90 212 463 63 63
+    Year Founded: 1933
+    Website: www.turkishairlines.com
+    Sector: Industrials
+    Industry: Passenger Airlines
+    Description: Türk Hava Yollari Anonim Ortakligi provides air transport and aircraft technical maintenance services in Turkey and internationally. The company offers domestic and international passenger and cargo air transportation services; repair and maintenance, and technical and infrastructure support services related to aviation sector; catering and ground service fuel services; software system maintenance and information technology consulting services. It is also involved in training, airport operation, and investment activities; provides cabin interior products and cargo transportation; and the trading of aviation fuel. The company was incorporated in 1933 and is headquartered in Istanbul, Turkey.
+
+    Key Financial Metrics:
+    ----------------------
+    Market Cap: $10778390711.8749
+    Total Debt: $13006491006.1059
+    Total Enterprise Value: $17636987148.854
+    Debt to Equity Ratio: 76.3044%
+    Long-term Debt to Capital: 33.0693%
+    Payout Ratio: None%
+    Price-to-Book Ratio: 0.632464703736735
+    Revenue Growth (1 Year): 66.9327%
+    Revenue Growth (3 Years): 125.244%
+    Net Margin: 28.2492%
+    Gross Margin: 20.4787%
+    EBITDA Margin: 10.8766%
+    Earnings Per Share (EPS) Growth: 235.9287%
+    Return on Assets (ROA): 4.1996%
+    Return on Equity (ROE): 44.0654%
+    Levered Free Cash Flow YoY: 5.1392%
+    Total Liabilities to Total Assets: 54.7943%
+
+    Dividends:
+    ----------
+    Dividend Rate: None
+    Forward Dividend Rate: None
+    TTM Dividend Rate: None
+    Dividend Yield: None%
+    Forward Dividend Yield: None%
+    TTM Dividend Yield: None%
+    Dividend Distribution: None
+    Dividend Growth: 0
+
+    Recent Dividend Payments:
+    -------------------------
+    
+    Additional Metrics:
+    -------------------
+    Estimated EPS: None
+    Estimated FFO: None
+    EV/EBITDA: 6.11577285126243
+    EV/Sales: 0.895009655210097
+    Last Close Price/Earnings Ratio: 1.93622552681202
+    Forward PE Ratio: None
+    Non-GAAP PE Ratio: None
+    Short Interest Percent of Float: None
+    Analyst Recommendations Count: 0.0
+    52-Week High: None
+    52-Week Low: None
+
+    Address Details:
+    ----------------
+    Street Address: Türk Hava Yollari AO Genel Yönetim Binas
+    Street Address 2: Yesilköy Mahallesi
+    Street Address 3: Havaalani Caddesi No: 3/1
+    Street Address 4: Bakirköy
+    Postal Code: 34149
+    

@@ -1,0 +1,72 @@
+
+    Company Information:
+    --------------------
+    ID: KHOLY
+    Ticker ID: 17094
+    Company Name: Koç Holding A.S.
+    Location: Istanbul, Turkey
+    Address: Nakkastepe Azizbey Sokak No: 1, Kuzguncuk-UeskUedar, 34674
+    Phone: 90 216 531 00 00
+    Year Founded: 1926
+    Website: www.koc.com.tr
+    Sector: Industrials
+    Industry: Industrial Conglomerates
+    Description: Koç Holding A.S., through its subsidiaries, engages in the energy, automotive, consumer durables, finance, and other businesses in Turkey and internationally. The company’s energy business operates petroleum refineries; distributes petroleum products and liquefied petroleum gases; and generates electricity through hydroelectric, natural gas, coal, wind, thermal, and solar power and other renewable plants. It serves customers under the Akpa, Aygaz, Lipetgaz, Mogaz, Pürsu, Aygaz Dogal Gaz, Demir Export, Ditas, Aygaz Otogaz +, Opet Fuchs, Opet, THY Opet, Tüpras, Körfez Ulastirma, and Entek Bregenz brands. The company’s automotive business provides light commercial vehicles, passenger cars, tractors, buses, and trucks, as well as offers automotive retailing and car rental services. It serves customers under the Ford, Koç Fiat Kredi, Otokar, Avis, Budget, Otokoç, Otokoç Otomotiv, Otokoç Sigorta, Alfa Romeo, Ferrari, Fiat, Lancia, Maserati, Otoeksper, Tofas, Case IH, and TürkTraktör brands. The company’s consumer durables business offers white goods, televisions, and air conditioners under the Arçelik, Beko, Leisure, Arctic, Altus, Grundig, Blomberg, Defy, Elektra Bregenz, Flavel, and Arçelik LG brands. Its finance business provides various banking and financial products and services that include private banking, factoring, leasing, portfolio management, investment, and credit cards; and payment solutions under the Token, akpa, Kocfinans, Yapi Kredi Faktoring, Yapi Kredi, Yapi Kredi Leasing, Yapi Kredi Kültür Sanat Yayincilik, Yapi Kredi Portföy Yönetimi, Yapi Kredi Yatirim, Yapi Kredi Koray, and Token Payment Services & E-Money brands. The company’s other business offers tomato products and pastes, canned pickles, and ketchups; and ship construction, tourism, and information technology services under various brand names. Koç Holding A.S. was founded in 1926 and is based in Istanbul, Turkey.
+
+    Key Financial Metrics:
+    ----------------------
+    Market Cap: $12568562875.7668
+    Total Debt: $23134233028.3416
+    Total Enterprise Value: $33362439170.6219
+    Debt to Equity Ratio: 95.2323%
+    Long-term Debt to Capital: 19.5211%
+    Payout Ratio: 270.657525745826%
+    Price-to-Book Ratio: 0.865424964937083
+    Revenue Growth (1 Year): -22.0324%
+    Revenue Growth (3 Years): 92.6276%
+    Net Margin: 2.1814%
+    Gross Margin: 18.0821%
+    EBITDA Margin: 8.0911%
+    Earnings Per Share (EPS) Growth: -56.5027%
+    Return on Assets (ROA): 3.1287%
+    Return on Equity (ROE): 12.085%
+    Levered Free Cash Flow YoY: -132.8133%
+    Total Liabilities to Total Assets: 77.8387%
+
+    Dividends:
+    ----------
+    Dividend Rate: 1.23
+    Forward Dividend Rate: 1.229532
+    TTM Dividend Rate: 1.229532
+    Dividend Yield: 4.97%
+    Forward Dividend Yield: 4.97343257018041%
+    TTM Dividend Yield: 4.97343257018041%
+    Dividend Distribution: Annual
+    Dividend Growth: 2
+
+    Recent Dividend Payments:
+    -------------------------
+      - Amount: 1.229532, Ex Date: 2024-04-24, Pay Date: 2024-05-13, Record Date: 2024-04-25, Declare Date: 2024-04-10
+
+    Additional Metrics:
+    -------------------
+    Estimated EPS: None
+    Estimated FFO: None
+    EV/EBITDA: 6.41737887328526
+    EV/Sales: 0.631745234841031
+    Last Close Price/Earnings Ratio: 10.9060833868328
+    Forward PE Ratio: None
+    Non-GAAP PE Ratio: None
+    Short Interest Percent of Float: None
+    Analyst Recommendations Count: 0.0
+    52-Week High: None
+    52-Week Low: None
+
+    Address Details:
+    ----------------
+    Street Address: Nakkastepe Azizbey Sokak No: 1
+    Street Address 2: Kuzguncuk-UeskUedar
+    Street Address 3: None
+    Street Address 4: None
+    Postal Code: 34674
+    
